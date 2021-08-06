@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum",
+      "complete": true,
+      "deatils": "Lorem ipsum"
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": true,
+      "deatils": "Lorem ipsum wvwbvbwvebv"
+    },
+    {
+      "title": "Make a new website ",
+      "details": "blah blah blah1 ",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "this  is title updated",
+      "details": "shgdhs dsdbsnd sndbdnsbd sdnsbdnb sdsbdnsbd",
+      "complete": false,
+      "id": 4,
+      "deatils": "shgdhs dsdbsnd sndbdnsbd sdnsbdnb sdsbdnsbd"
+    }
+  ]
+}
